@@ -1,4 +1,4 @@
-FROM octohost/go-1.2rc3
+FROM octohost/go-1.2rc5
 
 RUN go get github.com/hoisie/web
 RUN mkdir /srv/www/

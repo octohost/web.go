@@ -5,7 +5,7 @@ import (
 )
 
 func hello(val string) string { 
-    return "hello " + val + " from octohost."
+    return "<h1 id='title'>hello " + val + " from octohost</h1>"
 } 
 
 func main() {

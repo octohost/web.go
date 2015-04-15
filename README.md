@@ -13,5 +13,3 @@ cd web.go
 git remote add octohost git@ip.address.here:web.go.git
 git push octohost master
 ```
-
-Example site \(usually\) at [http://web.go.octohost.io/](http://web.go.octohost.io/)
